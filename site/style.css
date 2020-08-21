@@ -1,0 +1,39 @@
+div#container {
+	background-color: cornflowerblue;
+	border: 4px solid rgb(0, 128, 0);
+    border-block: 5px solid rgb(0, 128, 0);
+}
+#p1{
+    
+    background-color: darkgoldenrod;
+    float: right;
+}
+#p2{
+    
+    background-color: cornflowerblue;
+    position: relative;
+    top: 20px;
+	clear: left;
+	bottom: 10px;
+}
+#p3{
+	background-color: darkmagenta;
+	float: right;
+	
+}
+#p4{
+	background-color: cornflowerblue;
+	position: relative;
+    top: 20px;
+	clear: left;
+}
+#p5 {
+	background-color: rgb(255, 80, 211);
+	float: right;
+}
+#p6{
+	background-color: cornflowerblue;
+	position: relative;
+    top: 20px;
+	clear: left;
+}
